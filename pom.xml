@@ -20,4 +20,16 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
   
+<distributionManagement>
+	    <repository>
+	      <id>anilnexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://15.206.195.210:8081/repository/enterprice-releses/</url>
+	    </repository>
+	    <snapshotRepository>
+	      <id>anilnexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://15.206.195.210:8081/repository/enterprice-snapshot/</url>
+	    </snapshotRepository>
+	</distributionManagement>	
 </project>
