@@ -80,9 +80,12 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-
-		<!-- provided dependencies -->
-
+                <dependency>
+                        <groupId>com.mss</groupId>
+                        <artifactId>mail</artifactId>
+                        <version>1.0.0</version>
+                </dependency>
+		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
