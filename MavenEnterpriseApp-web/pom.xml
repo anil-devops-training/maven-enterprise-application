@@ -96,12 +96,12 @@
 	    <repository>
 	      <id>anilnexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.195.210:8081/repository/enterprice-releses/</url>
+	      <url>http://15.206.195.210:8081/repository/enterprice-releses</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>anilnexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://15.206.195.210:8081/repository/enterprice-snapshot/</url>
+	      <url>http://15.206.195.210:8081/repository/enterprice-snapshot</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
